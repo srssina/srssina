@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on machine learning projects.<br>👯 I’m looking to collaborate on Ai in Healthcrea projects.<br>🤝 I’m looking for help with Theorical cs concepts.<br>🌱 I’m currently learning Deep learning.<br>
+I’m currently working on machine learning projects.<br>👯 I’m looking to collaborate on Ai in Healthcare projects.<br>🤝 I’m looking for help with neural networks, Bioinformatic,computer vision.<br>🌱 I’m currently learning Deep learning.<br>
 
 
 ## 🌐 Socials:
