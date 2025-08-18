@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <span style="font-size:1.5em;font-weight:bold;">Hi, My name is Sina Rahimian</span>
-  <img src="pfp.gif" alt="Profile" width="48" height="48" style="margin-left: 12px; border-radius: 50%;" />
-</div>
+Hi, My name is Sina Rahimian  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======================================================================================================================================
 
 Ai in healthcare reseacher,Cs graduate 
