@@ -1,14 +1,19 @@
-# 💫 About Me:
-I’m currently working on machine learning projects.<br>👯 I’m looking to collaborate on Ai in Healthcare projects.<br>🤝 I’m looking for help with neural networks, Bioinformatic,computer vision.<br>🌱 I’m currently learning Deep learning.<br>
+Hi, My name is Sina Rahimian  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+======================================================================================================================================
+
+Ai in healthcare reseacher,Cs graduate 
+---------------------------
+
+* 🖥️  See my portfolio at [sinarahimian.xyz](http://sinarahimian.xyz)
+* 🧠  I'm currently learning Ai agents,Deeplearning
+* 👥  I'm looking for ms ai opportunities and ai in healthcrae projects
+* 💬  Ask me about classical ml,ai in healthcare problems
+* 🔗  contact me on <a href=https://www.linkedin.com/in/sinarahimian/> linkedin </a> for furture collabration!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinarahimian) 
+<p align="center">
+   <a>
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,debian,docker,py,pytorch,raspberrypi,sklearn,ubuntu,tensorflow,vscode" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srssina&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
