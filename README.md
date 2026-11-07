@@ -16,4 +16,8 @@ Ai in healthcare reseacher,Cs graduate
     <img src="https://skillicons.dev/icons?i=anaconda,bash,debian,docker,py,pytorch,raspberrypi,sklearn,ubuntu,tensorflow,vscode" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/srssina/srssina/output/tulkun/tulkun.gif" width="640" alt="srssina's git-tulkun" />
+  </a>
+</p>
