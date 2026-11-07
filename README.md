@@ -10,14 +10,14 @@ Ai in healthcare reseacher,Cs graduate
 * 💬  Ask me about classical ml,ai in healthcare problems
 * 🔗  contact me on <a href=https://www.linkedin.com/in/sinarahimian/> linkedin </a> for furture collabration!
 
-
-<p align="center">
-   <a>
-    <img src="https://skillicons.dev/icons?i=anaconda,bash,debian,docker,py,pytorch,raspberrypi,sklearn,ubuntu,tensorflow,vscode" />
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
     <img src="https://raw.githubusercontent.com/srssina/srssina/output/tulkun/tulkun.gif" width="640" alt="srssina's git-tulkun" />
+  </a>
+</p>
+
+<p align="center">
+   <a>
+    <img src="https://skillicons.dev/icons?i=bash,debian,docker,py,pytorch,raspberrypi,sklearn,ubuntu,tensorflow" />
   </a>
 </p>
