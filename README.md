@@ -15,11 +15,11 @@ Hi, My name is Sina Rahimian  ![](https://user-images.githubusercontent.com/1835
 Ai in healthcare reseacher,Cs graduate 
 ---------------------------
 
-* 🖥️  See my portfolio at [sinarahimian.xyz](http://sinarahimian.xyz)
-* 🧠  I'm currently learning Ai agents,Deeplearning
-* 👥  I'm looking for ms ai opportunities and ai in healthcrae projects
-* 💬  Ask me about classical ml,ai in healthcare problems
-* 🔗  contact me on <a href=https://www.linkedin.com/in/sinarahimian/> linkedin </a> for furture collabration!
+## 🖥️  See my portfolio at [sinarahimian.xyz](http://sinarahimian.xyz)
+## 🧠  I'm currently learning Ai agents,Deeplearning
+## 👥  I'm looking for ms ai opportunities and ai in healthcrae projects
+## 💬  Ask me about classical ml,ai in healthcare problems
+## 🔗  contact me on <a href=https://www.linkedin.com/in/sinarahimian/> linkedin </a> for furture collabration!
 
 <p align="center">
   <a href="https://github.com/PramudithaN/git-tulkun">
